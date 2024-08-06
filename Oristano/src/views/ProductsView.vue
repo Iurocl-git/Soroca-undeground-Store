@@ -76,10 +76,15 @@
     .main_catalog {
       display: inline-block;
       text-align: center;
-      padding: 0px 60px;
+      padding: 0px;
     }
     .catalog_li {
       padding: 0px;
+    }
+    #search_bar {
+      width: 90%;
+      margin: 0px auto;
+      margin-bottom: 40px;
     }
     .GameCard {
       margin: 0px 20px;
