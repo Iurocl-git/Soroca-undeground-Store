@@ -45,6 +45,10 @@ To run this project locally, follow these steps:
 
    The application should now be running at `http://localhost:8080/`.
 
+## Photos
+
+![App Preview](photos/main.png)
+
 ## Contributing
 
 Contributions are welcome! To contribute:
