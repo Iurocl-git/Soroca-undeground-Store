@@ -48,6 +48,9 @@ To run this project locally, follow these steps:
 ## Photos
 
 ![App Preview](photos/main.png)
+![App Preview](photos/list.png)
+![App Preview](photos/addNew.png)
+![App Preview](photos/participants.png)
 
 ## Contributing
 
